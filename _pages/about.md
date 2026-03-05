@@ -87,5 +87,5 @@ not yet
 waiting...
 
 # Friends' Links <font size=3>*Ciallo～(∠・ω< )⌒★*</font>
-Open to manifold alignments — of any ideas, thoughts, and research! ٩(◕‿◕｡)۶ 
-[*Cold Rain*](https://coldrain.top/) (*Incurable idealist*),[*清風之戀*](https://blog.qingfengzl.top/), [Zhijian Shu](https://garlicba.github.io/) (Winner of NJUPT's **Highest** Awards)
+Open to manifold alignments — of any ideas, thoughts, and research!
+[*Cold Rain*](https://coldrain.top/),[*清風之戀*](https://blog.qingfengzl.top/), [Zhijian Shu](https://garlicba.github.io/)
