@@ -72,7 +72,7 @@ Xiaoyue Wu<sup>`*`</sup>, **Tianyi Lyu**<sup>`*`</sup>, Mingye Ju
 
 # 🎖 Honors and Awards
 - *2025.12*: &nbsp; FPGA Innovation Design Competition ([Code](https://github.com/Lvmolvmo/FPGA_plus_SLE)).
-- *2025.10*: &nbsp; China National Scholarship (2/99, *2%*).
+- *2025.10*: &nbsp; China National Scholarship (1/100, *1%*).
 - *2025.10*: &nbsp; MCM/ICM (The Mathematical Contest in Modeling) — **Meritorious Winner**
 
 # 📖 Educations
