@@ -24,7 +24,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2026.03*: &nbsp; One more work is coming soon~
+- *2026.03*: &nbsp;🎉🎉 RTDnet is accepted by IEEE Transactions on Image Processing!
 - *2026.02*: &nbsp;🎉🎉 CIM-D is accepted by CVPR 2026!
 - *2026.01*: &nbsp;🎉🎉 IDPNBP is accepted by IEEE Signal Processing Letters!
 
@@ -88,4 +88,4 @@ waiting...
 
 # Friends' Links <font size=3>*Ciallo～(∠・ω< )⌒★*</font>
 Open to manifold alignments — of any ideas, thoughts, and research!
-[*Cold Rain*](https://coldrain.top/),[*清風之戀*](https://blog.qingfengzl.top/), [Zhijian Shu](https://garlicba.github.io/)
+[*Cold Rain*](https://coldrain.top/), [*清風之戀*](https://blog.qingfengzl.top/), [Zhijian Shu](https://garlicba.github.io/), [Jiaqi Zhang](https://jiaqizhang-sengoku.github.io/), [*io-wy*](https://io-wy.github.io/)
